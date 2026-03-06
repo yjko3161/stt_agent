@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+
+# Models (Extremely Large)
+models/
+*.pt
+*.bin
+*.pth
+*.model
+
+# Cache
+.cache/
+.msc/
+.mdl/
+
+# OS & IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
